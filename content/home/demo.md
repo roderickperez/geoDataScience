@@ -5,15 +5,16 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = false
+  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
 title = "Academic Kickstart"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,9 +68,9 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Wear the T-shirt](https://academic.threadless.com/)
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [_Blank_ widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+Backgrounds can be applied to any section. Here, the _background_ option is set give a _color gradient_.
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
