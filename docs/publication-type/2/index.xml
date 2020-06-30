@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | geo{DataScience}</title>
+    <link>https://roderickperez.github.io/geoDataScience/publication-type/2/</link>
+      <atom:link href="https://roderickperez.github.io/geoDataScience/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Roderick Perez Altamar©2020</copyright><lastBuildDate>Mon, 29 Jun 2020 14:43:52 -0500</lastBuildDate>
+    <image>
+      <url>https://roderickperez.github.io/geoDataScience/images/icon_hu30f71230d69c1f4797f2dad8c751e829_796_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://roderickperez.github.io/geoDataScience/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Mineralogy Brittleness Prediction</title>
+      <link>https://roderickperez.github.io/geoDataScience/publication/mineralogy-brittleness-prediction/</link>
+      <pubDate>Mon, 29 Jun 2020 14:43:52 -0500</pubDate>
+      <guid>https://roderickperez.github.io/geoDataScience/publication/mineralogy-brittleness-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Brittle Ductile Areas</title>
+      <link>https://roderickperez.github.io/geoDataScience/publication/identification-of-brittle-ductile-areas/</link>
+      <pubDate>Mon, 29 Jun 2020 14:43:32 -0500</pubDate>
+      <guid>https://roderickperez.github.io/geoDataScience/publication/identification-of-brittle-ductile-areas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
